@@ -42,6 +42,7 @@ Done. Didn't really need the first line, but it doesn't hurt. Now, how to use it
 	
 	h2. What do subheaders do?
 	* How are images and diagrams handled?
+	* Like this: !pear2.gif(a pear)!
 	* What about links? 
 	
 Now make them slides:
