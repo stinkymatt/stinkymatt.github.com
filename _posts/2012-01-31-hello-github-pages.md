@@ -55,6 +55,3 @@ Very nice, but has default content what needs purgin'. And a non-defualt theme w
 * Add content to the file in \_posts that the rake task just created.
 
 Things are pretty close now, but the landing page needs customization. For that, just edit index.md to replace the default content. Then just push the repo back up to github.
-
-
-
